@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Juan Casas-Alatriste Rion
-- 👀 I’m interested in learn all kind of skills
-- 🌱 I’m currently learning lowcode and data modeling systems
-- 💞️ I’m looking to collaborate on energy optimization projects
+- I’m Juan Casas-Alatriste Rion
+- 👀 Mathematics enclose our perseption of measures. 
+- 🌱 Creative and business mindset ready to lear about circular economics and sustainable systems.
+- Machine learning apprentice.
 - 📫 You can reach me by e-mail to juan@casas-alatriste.com
 
 <!---
